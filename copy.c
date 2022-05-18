@@ -1,10 +1,4 @@
-/* 
-Family Name: Thakkar 
-Given Name: Arpit Nileshbhai
-Student Number: 217632340
-CS Login: arpit21
-YorkU email address (the one that appears in eClass): arpit21@my.yorku.ca
-*/ 
+
 
 #include <stdio.h>
 #include <string.h>
